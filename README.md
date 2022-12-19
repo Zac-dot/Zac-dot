@@ -1,7 +1,11 @@
-👋 Hi, I’m @Zac-dot
+# Hey there! 👋
+## Im @Zac-dot, or Xander Thompson
 
+Im an avid coder and college student who has experience with Java, C++, and Python languages. I am currently going through my 4th year at college as a Computer Sci major.
 
-<!---
-Zac-dot/Zac-dot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Most Recent Projects
+
+The most recent projects I have worked on are:
+- [Piano Toy](https://github.com/Zac-dot/Pianotoy), a simple C++ Piano made using the GTK Framework
+- [Zac-dot.github.io](https://github.com/Zac-dot/Zac-dot.github.io), a GitHub Pages website that I am attempting to use for personal use
+- [Phase3Repo](https://github.com/Zac-dot/Phase3Repo), a Java application made as part of a group project that demos an accounting system using JavaFX
