@@ -1,3 +1,4 @@
+[![An image of @zacdot's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zacdot)](https://holopin.io/@zacdot)
 # Hey there! 👋
 ## Im @Zac-dot, or Xander Thompson
 
