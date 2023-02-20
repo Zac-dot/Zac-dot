@@ -9,4 +9,4 @@ Im an avid coder and college student who has experience with Java, C++, and Pyth
 The most recent projects I have worked on are:
 - [Piano Toy](https://github.com/Zac-dot/Pianotoy), a simple C++ Piano made using the GTK Framework
 - [Zac-dot.github.io](https://github.com/Zac-dot/Zac-dot.github.io), a GitHub Pages website that I am attempting to use for personal use
-- [Phase3Repo](https://github.com/Zac-dot/Phase3Repo), a Java application made as part of a group project that demos an accounting system using JavaFX
+- [TEAccountingProject](https://github.com/Zac-dot/TEAccountingProject), a Java application made as part of a group project that demos an accounting system using JavaFX and a SQL Database
